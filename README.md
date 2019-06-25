@@ -1,0 +1,2 @@
+# EclipseBot
+Moderation Bot
